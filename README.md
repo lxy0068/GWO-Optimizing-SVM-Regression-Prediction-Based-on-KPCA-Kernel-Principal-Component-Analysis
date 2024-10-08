@@ -1,6 +1,6 @@
 # GWO-Optimizing-SVM-Regression-Prediction-Based-on-KPCA-Kernel-Principal-Component-Analysis
 
-基于KPCA核主成分分析的GWO灰狼算法优化SVM支持向量机回归预测（数学建模模型代码）
+Grey Wolf Algorithm Optimization Support Vector Machine Regression Prediction Based on KPCA Kernel Principal Component Analysis (Model Code for Mathematical Modeling Competition)
 
 ![image](https://github.com/user-attachments/assets/3dc36f18-d88b-4572-ad5e-f2e732618ba2)
 ![image](https://github.com/user-attachments/assets/ce5f9184-6ac8-4b99-9b7b-d381f96e66dc)
